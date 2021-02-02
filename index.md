@@ -1,7 +1,7 @@
-### Welcome to Sams Blog
+# Welcome to Sams Blog
 
 ## About me
-im smert
+college cybersecurity course level 3
 
 ## what i have been doing
 

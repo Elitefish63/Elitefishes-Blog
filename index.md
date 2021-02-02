@@ -3,7 +3,7 @@
 ## About me
 im smert
 
-## \what i have been doing
+## what i have been doing
 
 
 

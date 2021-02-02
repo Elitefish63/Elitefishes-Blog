@@ -1,10 +1,10 @@
-##Welcome to Sams Blog
+### Welcome to Sams Blog
 
-###About me
+## About me
 im smert
 
-###What i have been doing
+## \what i have been doing
 
-##
+
 
 [Next](https://elitefish63.github.io/Elitefishes-Blog/Unit1)
